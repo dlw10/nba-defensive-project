@@ -19,7 +19,7 @@ We also examine whether defensive statistics better capture traditional position
 
 - Source: NBA.com
 - Season: 2025-2026
-- Sample size: ~165 players
+- Sample size: 165 players
 - Features: 26 defensive box score statistics (e.g., rebounds, blocks, opponent points)
 - Target variable: Player position (Guard, Forward, Center)
 
