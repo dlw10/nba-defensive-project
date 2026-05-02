@@ -10,9 +10,8 @@ We also examine whether defensive statistics better capture traditional position
 
 ## Research Questions
 
-1. Can NBA player positions be accurately predicted using only defensive statistics?
-2. Do defensive metrics better reflect traditional positions or defensive playstyles?
-3. Which features are most important for distinguishing defensive roles?
+1. Can a player’s defensive statistics alone be used to accurately identify their NBA position?
+2. How do defensive box-score statistics profile NBA players’ defensive archetypes and/or playstyles?
 
 ---
 
