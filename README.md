@@ -88,7 +88,7 @@ Weighted F1 is preferred because it accounts for imbalance across positional cla
 
 ## Limitations
 
-- Dataset size is relatively small (~165 players)
+- Dataset size is relatively small (165 players)
 - LLM evaluation is limited due to API cost constraints
 - Position labels may not fully reflect modern “positionless basketball”
 
