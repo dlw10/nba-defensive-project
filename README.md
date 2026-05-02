@@ -111,7 +111,3 @@ Weighted F1 is preferred because it accounts for imbalance across positional cla
 - Kairi Mano  
 - Dylan Wall  
 - Advisor: Dr. Akane Sano (Rice University)
-
----
-
-## Repository Structure
